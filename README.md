@@ -1,21 +1,29 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Serene Frequencies 7.1 | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Let's grow this track even further for more varieties in the future video
+making. Here's another attempt for a peaceful and calming auras soundtrack.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #chillwave #instrumental #ambient
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Serene-Frequencies-7-point-1.mp3
+  Size: 5916672         Blocks: 11560      IO Block: 4096   regular file
+Access: 2025-11-02 14:58:12.816799509 +0800
+Modify: 2025-11-02 14:58:23.388850029 +0800
+Change: 2025-11-02 14:58:23.388850029 +0800
+ Birth: 2025-07-20 11:53:45.882245170 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-07-06
+On YouTube since : 2025-07-06
 ```
 
-[YouTube](#) |
+[YouTube](https://www.youtube.com/watch?v=jDeEXP1_A7A) |
 [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf) |
-[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf) |
+[Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf) |
+[Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
 
 
 
@@ -36,9 +44,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Serene Frequencies 7.1
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-serene-frequencies-7p1
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
